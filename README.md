@@ -17,10 +17,16 @@ Flight logs and information from rockets I've built and flown.
  <img src="https://github.com/robderstadt/Rockets/blob/master/BinderDesign/ExcelDualDeploy/Flight2/Cessaroni-J295.png"/>
 
  + Cessaroni J290
+ + Mach 0.8 / 620 mph
+ + 19G
+ + 6094 ft AGL
 
 ######  Flight 3 - 06/04/2016
 
  <img src="https://github.com/robderstadt/Rockets/blob/master/BinderDesign/ExcelDualDeploy/Flight3/Aerotech-K456DM.png"/>
 
  + Aerotech K456
+ + Mach 0.9 / 663 mph
+ + 16 G
+ + 5966 ft AGL
 
