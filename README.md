@@ -33,4 +33,13 @@ Flight logs and information from rockets I've built and flown.
  + Mach 0.9 / 663 mph
  + 16 G
  + 5966 ft AGL
+ 
+#####  Flight 4 - 04/02/2016
+
+ <img src="https://github.com/robderstadt/Rockets/blob/master/BinderDesign/ExcelDualDeploy/Flight4/Cesaroni-K650-SS.png"/>
+
+ + Cesaroni K650 SS
+ + Mach 1.0 / 794 mph
+ + 23 G
+ + 6680 ft AGL
 
