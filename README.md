@@ -53,3 +53,17 @@ Flight logs and information from rockets I've built and flown.
  + Mach 0.5 / 358 mph
  + 16 G
  + 3245 ft AGL
+
+#### LOC- 5.5" R2 Aero
+
+#####  Flight 1 - 04/02/2016
+
+ <img src="https://github.com/robderstadt/Rockets/blob/master/LOC/R2-Aero/Flight1/Cesaroni-I470.png"/>
+
+ + Cesaroni I470
+ + Mach 0.3 / 203 mph
+ + 16 G
+ + 1772 ft AGL
+ + 
+ 
+This flight was also a test run for my <a href="https://github.com/robderstadt/RocketPhone">Rocket Phone</a>, which worked perfectly. 
