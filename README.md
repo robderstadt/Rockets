@@ -45,7 +45,7 @@ Flight logs and information from rockets I've built and flown.
 
 #### Mad Cow - 4" Nike Smoke
 
-#####  Flight 4 - 04/02/2016
+#####  Flight 1 - 04/02/2016
 
  <img src="https://github.com/robderstadt/Rockets/blob/master/MadCow/NikeSmoke4/Flight1/Cesaroni-J280-SS.png"/>
 
