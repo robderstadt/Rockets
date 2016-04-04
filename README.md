@@ -33,4 +33,23 @@ Flight logs and information from rockets I've built and flown.
  + Mach 0.9 / 663 mph
  + 16 G
  + 5966 ft AGL
+ 
+#####  Flight 4 - 04/02/2016
 
+ <img src="https://github.com/robderstadt/Rockets/blob/master/BinderDesign/ExcelDualDeploy/Flight4/Cesaroni-K650-SS.png"/>
+
+ + Cesaroni K650 SS
+ + Mach 1.0 / 794 mph
+ + 23 G
+ + 6680 ft AGL
+
+#### Mad Cow - 4" Nike Smoke
+
+#####  Flight 4 - 04/02/2016
+
+ <img src="https://github.com/robderstadt/Rockets/blob/master/MadCow/NikeSmoke4/Flight1/Cesaroni-J280-SS.png"/>
+
+ + Cesaroni J280 SS
+ + Mach 0.5 / 358 mph
+ + 16 G
+ + 3245 ft AGL
