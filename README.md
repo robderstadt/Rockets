@@ -64,6 +64,5 @@ Flight logs and information from rockets I've built and flown.
  + Mach 0.3 / 203 mph
  + 16 G
  + 1772 ft AGL
- + 
  
 This flight was also a test run for my <a href="https://github.com/robderstadt/RocketPhone">Rocket Phone</a>, which worked perfectly. 
